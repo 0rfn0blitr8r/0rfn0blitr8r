@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=touch+some+grass+🙃)](https://git.io/typing-svg)
+
 # 💫 About Me:
-🔭 Working on expanding my knowledge on ML, AI & Web Dev<br>🌱 I’m currently learning Machine Learning & practicing Problem Solving<br>⚡ Fun fact : The axolotl, a unique amphibian native to Mexico, can regenerate almost any part of its body, including its limbs, spinal cord, heart, and even parts of its brain!
+🔭 Working on Machine Learning and Web Development
 
 
 ## 🌐 Socials:
