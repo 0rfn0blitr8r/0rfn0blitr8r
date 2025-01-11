@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=touch+some+grass+🙃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=afk,+touching+some+grass+🙃)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Working on Machine Learning and Web Development
